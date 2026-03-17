@@ -35,7 +35,7 @@
     transform-origin: center;
     transform-style: preserve-3d;
     border-radius: 15px;
-    transform: rotateY(calc(45deg*var(--n))) translateZ(390px);
+    transform: rotateY(calc(25deg*var(--n))) translateZ(500px);
    
    
     -webkit-box-reflect: below 0px linear gradient(transparent,transparent,rgba(0,0,0,0.250));
